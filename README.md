@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![View Counter](https://komarev.com/ghpvc/?username=ganbayar13&color=brightgreen)
+[![GitHub User's stars](https://img.shields.io/github/stars/ganbayar13?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=GitHub%20%E2%98%85%20Received&logo=github&style=flat-square)](https://github.com/ganbayar13)
+
 <!--
 **ganbayar13/ganbayar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
